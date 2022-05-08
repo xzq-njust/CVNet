@@ -16,6 +16,4 @@ This repository contains code for the CVNet framework as described in our [CVPR 
 1. Modify these directories in `package/config/config.ini`, and the directory where you intend to keep results
 1. Complete train/val/test split by `split_datasets.py`, our divided txt files are placed in `package/datasets`
 1. Run experiments with `runner.py` 
-
-## Model
-Download models from [here](https://drive.google.com/file/d/132_AnOKSc5jC1s2qnBRBjLxxzlXlMv60/view?usp=sharing)
+1. Download models from [here](https://drive.google.com/file/d/132_AnOKSc5jC1s2qnBRBjLxxzlXlMv60/view?usp=sharing)
