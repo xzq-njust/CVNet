@@ -19,5 +19,3 @@ This repository contains code for the CVNet framework as described in our [CVPR 
 
 ## Model
 Download models from [here](https://drive.google.com/file/d/132_AnOKSc5jC1s2qnBRBjLxxzlXlMv60/view?usp=sharing)
-
-Please contact me at xuziqiang@njust.edu.cn for questions.
