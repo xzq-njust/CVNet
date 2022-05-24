@@ -17,3 +17,9 @@ This repository contains code for the CVNet framework as described in our [CVPR 
 1. Complete train/val/test split by `split_datasets.py`, our divided txt files are placed in `package/datasets`
 1. Run experiments with `runner.py` 
 1. Download models from [here](https://drive.google.com/file/d/132_AnOKSc5jC1s2qnBRBjLxxzlXlMv60/view?usp=sharing)
+
+## References
+1. Darnet (https://github.com/dcheng-utoronto/darnet)
+1. ChamferDistance (https://github.com/ThibaultGROUEIX/ChamferDistancePytorch)
+
+Please contact me at xuziqiang@njust.edu.cn for questions.
