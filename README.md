@@ -1,6 +1,6 @@
 # CVNet: Contour Vibratioin Network for Building Extraction #
 
-This repository contains code for the CVNet framework as described in our [CVPR 2022 paper].
+This repository contains code for the CVNet framework as described in our [CVPR 2022 paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_CVNet_Contour_Vibration_Network_for_Building_Extraction_CVPR_2022_paper.pdf).
 
 ## Dependencies
 - Python 3 (we used v3.6.5)
